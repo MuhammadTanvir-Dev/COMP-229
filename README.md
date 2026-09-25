@@ -5,7 +5,7 @@ This repository contains my full-stack development coursework and projects for C
 ## 🛠️ Technology Stack
 - Frontend: React.js
 - Backend: Node.js, Express.js
-- Database/Tools:** REST APIs, JSON, Node Package Manager (NPM)
+- Database/Tools: REST APIs, JSON, Node Package Manager (NPM)
 
 ## 🚀 Key Learning Objectives
 - Designing and building robust RESTful APIs using Express.
